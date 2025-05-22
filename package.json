@@ -8,8 +8,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "mongoose": "^8.15.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaviyaShreya/Transaction-Scenario.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JaviyaShreya/Transaction-Scenario/issues"
+  },
+  "homepage": "https://github.com/JaviyaShreya/Transaction-Scenario#readme",
+  "description": ""
 }
